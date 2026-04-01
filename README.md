@@ -1,4 +1,4 @@
-# Python-Thesis
+# Simulation of CO2 methanation in Python
 
 Python scrip to simulate co2 methanation along the length of a reactor, using PH3 model. The PDE model is volume finite with the package FiPy.
 
