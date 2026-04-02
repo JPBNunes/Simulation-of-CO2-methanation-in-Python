@@ -1,6 +1,6 @@
 # Simulation of CO2 methanation in Python
 
-Python scrip to simulate co2 methanation along the length of a reactor, using pseudohomogeneous model. The PDE model is volume finite with the package FiPy.
+Python scrip to simulate CO2 methanation along the length of a reactor, using pseudohomogeneous model. The PDE model is volume finite with the package FiPy.
 
 It uses 4 different kinetics in order to confirm whether it is working correctly. It is not!
 
